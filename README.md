@@ -1,5 +1,5 @@
 # symfonyTrelloApi
 
-# BUILD DOCKER #
+### BUILD DOCKER ###
 
 docker-compose up -d --build
